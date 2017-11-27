@@ -4,7 +4,7 @@
 
 Prerequisite (Environment Setup):
 
-1. Install STS (Eclipse, Neatbeans) IDE
+1. Install STS ( or Eclipse, Neatbeans) IDE
 2. Download Tomcat and config
 3. Install MySql Database
 
