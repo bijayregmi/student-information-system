@@ -16,7 +16,7 @@ Set Up:
     1. Update mysql username and password
 
 Run: 
-
-1. Run as -> Run on Server
-2. Go to browser and type: http://localhost:8080/student/   :) :) :)
+1. Run as -> Maven install
+2. Run as -> Run on Server
+3. Go to browser and type: http://localhost:8080/student/   :) :) :)
 
