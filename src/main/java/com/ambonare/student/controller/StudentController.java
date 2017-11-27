@@ -1,4 +1,4 @@
-package com.ambonare.student;
+package com.ambonare.student.controller;
 
 import java.util.List;
 import java.util.Locale;
