@@ -1,0 +1,75 @@
+body{
+	background: #e1e1e1;
+	margin: 0;
+	padding: 0;
+}
+h1{
+	background: #006064;
+	margin:0;
+	margin-bottom: 10px;
+	padding: 10px;
+	color: #fff;
+	text-align: center;
+}
+h2 span{
+	background: #00ACC1;
+	margin:0;
+	padding: 5px;
+	color: #fff;
+	border-radius: 8px;
+}
+table{
+	margin-top: 10px;
+}
+table thead{
+	background: #00838F;
+	color: #fff;
+}
+.table-bordered {
+    border: 1px solid #00838F;
+}
+.table-bordered>tbody>tr>td, .table-bordered>tbody>tr>th, .table-bordered>tfoot>tr>td, .table-bordered>tfoot>tr>th, .table-bordered>thead>tr>td, .table-bordered>thead>tr>th {
+    border: 1px solid #00838F;
+}
+table td a{
+	padding: 5px;
+	background: #26C6DA;
+	text-decoration: none;
+	color: #fff;
+	border-radius: 6px;
+}
+table td a:hover{
+	background: #0097A7;
+	text-decoration: none;
+	color: #fff;
+	/* border-radius: 6px; */
+}
+form{
+	padding: 20px;
+	background: #80DEEA;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button.current, .dataTables_wrapper .dataTables_paginate .paginate_button.current:hover{
+	background:#006064;
+	color: #fff !important;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button.current, .dataTables_wrapper .dataTables_paginate .paginate_button.current:hover{
+	border: 1px solid #006064;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button.disabled, .dataTables_wrapper .dataTables_paginate .paginate_button.disabled:hover, .dataTables_wrapper .dataTables_paginate .paginate_button.disabled:active{
+    color: #fff !important;
+    border: 1px solid #006064;
+    background: #006064;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button{
+	color: #333 !important;
+    border: 1px solid #006064;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover{
+	color: #fff !important;
+    border: 1px solid #00838F;
+    background: #00838F;
+}
+
+.labels{
+	padding: 0;
+}
